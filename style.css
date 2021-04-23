@@ -33,8 +33,9 @@ html,body{
 .slide-5{
     min-height: 15rem;
     background-color: #2C3E50;
+
 }
 .footer{
-    height: 5rem;
+    height: 4rem;
     background-color: #1A252F;
 }
