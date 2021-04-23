@@ -8,7 +8,7 @@ html,body{
     box-sizing: border-box;
 }
 .my-header{
-    height: 5rem;
+    min-height: 5rem;
     background-color: #2C3E50;
     position: fixed;
     top: 0;
@@ -28,7 +28,7 @@ html,body{
 }
 .slide-4{
     min-height: 40rem;
-    background-color: #ffffff;
+    background-color: white;
 }
 .slide-5{
     min-height: 15rem;
